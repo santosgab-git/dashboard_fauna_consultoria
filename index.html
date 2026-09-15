@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Gestión de Fauna | Parque Solar Alpha</title>
+    
+    <!-- Fuentes Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Estilos CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Librerías Externas CDN -->
+    <!-- Supabase JS Client -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <!-- Chart.js para Visualizaciones -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+    <div class="dashboard-container">
+        <!-- ==========================================
+             ENCABEZADO INSTITUCIONAL
+             ========================================== -->
+        <header class="dashboard-header">
+            <div class="header-brand">
+                <div class="logo-box">
+                    <img src="images/logo.png" alt="Ecoambiente Solar Logo" id="brand-logo" />
+                </div>
+                <div class="title-box">
+                    <h1>Parque Solar Alpha</h1>
+                    <div class="subtitle">Consolidado de fauna</div>
+                </div>
+            </div>
+
+            <!-- Tarjetas de KPIs Principales -->
+            <div class="header-kpis">
+                <div class="kpi-card">
+                    <div class="kpi-title">Total Ahuyentados</div>
+                    <div class="kpi-value" id="kpi-ahuyentados">2.517</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-title">Total Rescatados</div>
+                    <div class="kpi-value" id="kpi-rescatados">437</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-title">% Reubicados</div>
+                    <div class="kpi-value" id="kpi-reubicados">96,6 %</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-title">% Mortalidad</div>
+                    <div class="kpi-value" id="kpi-mortalidad">3,4 %</div>
+                </div>
+            </div>
+
+            <!-- Selector de Mes -->
+            <div class="header-filter">
+                <label for="select-mes">Seleccionar Mes</label>
+                <select id="select-mes" class="month-select">
+                    <option value="TODOS" selected>Todas</option>
+                    <option value="enero">Enero</option>
+                    <option value="febrero">Febrero</option>
+                    <option value="marzo">Marzo</option>
+                    <option value="abril">Abril</option>
+                    <option value="mayo">Mayo</option>
+                    <option value="junio">Junio</option>
+                    <option value="julio">Julio</option>
+                    <option value="agosto">Agosto</option>
+                    <option value="septiembre">Septiembre</option>
+                    <option value="octubre">Octubre</option>
+                    <option value="noviembre">Noviembre</option>
+                    <option value="diciembre">Diciembre</option>
+                </select>
+            </div>
+        </header>
+
+        <!-- ==========================================
+             CUERPO DEL TABLERO
+             ========================================== -->
+        <main class="dashboard-body">
+            
+            <!-- SIDEBAR IZQUIERDO: FILTRO DE CLASES CON IMÁGENES -->
+            <aside class="sidebar-filters">
+                <div class="sidebar-title">
+                    <span>Seleccionar Clase</span>
+                    <button type="button" id="btn-reset-clase" class="btn-reset-clase" title="Ver todas las clases">Todas</button>
+                </div>
+                
+                <div class="clase-cards-container" id="clase-cards-container">
+                    <!-- Tarjetas de clase cargadas dinámicamente con imágenes -->
+                </div>
+            </aside>
+
+            <!-- COLUMNA CENTRAL: GRÁFICAS PRINCIPALES -->
+            <section class="main-content-column">
+                <p class="dashboard-description">
+                    Este tablero permite analizar eventos de fauna según manejo, clase, mes y actividad de mortalidad.
+                </p>
+
+                <!-- Gráfico de Líneas: Evolución Mensual por Manejo -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h2 class="chart-title">Evolución mensual por manejo</h2>
+                    </div>
+                    <div class="chart-canvas-wrapper">
+                        <canvas id="chart-tendencia-mensual"></canvas>
+                    </div>
+                </div>
+
+                <!-- Gráfico de Barras: Actividades con Mayor Mortalidad -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h2 class="chart-title">Actividades con mayor mortalidad</h2>
+                    </div>
+                    <div class="chart-canvas-wrapper short" id="wrapper-mortalidad">
+                        <canvas id="chart-mortalidad-actividad"></canvas>
+                        <div id="msg-sin-mortalidad" class="empty-chart-placeholder" style="display: none;">
+                            <span>Sin registros</span>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- COLUMNA DERECHA: INDICADOR ANLA Y TABLAS TOP 5 -->
+            <section class="right-content-column">
+                
+                <!-- Gauge ANLA -->
+                <div class="gauge-card">
+                    <h2 class="gauge-title">Indicador ANLA (Rescate / Ahuyentamiento)</h2>
+                    <div class="gauge-canvas-wrapper">
+                        <canvas id="chart-anla-gauge"></canvas>
+                        <div class="gauge-center-text">
+                            <span class="gauge-value" id="gauge-anla-value">17,4 %</span>
+                            <span class="gauge-target-label" id="gauge-anla-target">Objetivo: &lt; 20%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tabla Top 5 Ahuyentadas -->
+                <div class="species-table-card">
+                    <table class="species-table">
+                        <thead>
+                            <tr>
+                                <th>Especie</th>
+                                <th>Ahuyentamiento</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-top-ahuyentadas">
+                            <!-- Datos inyectados vía JS -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Tabla Top 5 Rescatadas -->
+                <div class="species-table-card">
+                    <table class="species-table">
+                        <thead>
+                            <tr>
+                                <th>Especie</th>
+                                <th>Rescate</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-top-rescatadas">
+                            <!-- Datos inyectados vía JS -->
+                        </tbody>
+                    </table>
+                </div>
+
+            </section>
+        </main>
+
+        <!-- FOOTER / ESTADO DE SEGURIDAD -->
+        <footer class="dashboard-footer">
+            <div id="backend-status-text">
+                ⚡ Modo Local: <strong>Métricas Pre-calculadas (JSON)</strong>
+            </div>
+            <div class="rls-badge" title="Row Level Security activo en Supabase">
+                🔒 Supabase RLS: Solo Lectura Pública
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts de Configuración y Lógica -->
+    <script src="js/supabase-config.js"></script>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,5241 @@
+{
+  "secciones_clase": [
+    {
+      "clase": "Amphibia",
+      "nombre_seccion": "Anfibios",
+      "imagen": "https://i.ibb.co/9HDkzPk6/flying-frog-sitting-green-leaves.jpg",
+      "orden": 1
+    },
+    {
+      "clase": "Aves",
+      "nombre_seccion": "Aves",
+      "imagen": "https://i.ibb.co/gFWj9cb9/selective-focus-shot-hummingbird-flight.jpg",
+      "orden": 2
+    },
+    {
+      "clase": "Mammalia",
+      "nombre_seccion": "Mamíferos",
+      "imagen": "https://i.ibb.co/VWk49Snw/kerin-gedge-P3s-Ej29-SHD8-unsplash.jpg",
+      "orden": 3
+    },
+    {
+      "clase": "Reptilia",
+      "nombre_seccion": "Reptiles",
+      "imagen": "https://i.ibb.co/RGYV4ynX/blue-viper-snake-branch.jpg",
+      "orden": 4
+    }
+  ],
+  "kpi_resumen": [
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "total_ahuyentados": 2517,
+      "total_rescatados": 437,
+      "total_individuos": 2954,
+      "tasa_reubicacion": 96.6,
+      "tasa_mortalidad": 3.4,
+      "indicador_anla": 17.4,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "total_ahuyentados": 321,
+      "total_rescatados": 49,
+      "total_individuos": 370,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 15.3,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "total_ahuyentados": 284,
+      "total_rescatados": 55,
+      "total_individuos": 339,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 19.4,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "total_ahuyentados": 326,
+      "total_rescatados": 52,
+      "total_individuos": 378,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 16.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "total_ahuyentados": 215,
+      "total_rescatados": 22,
+      "total_individuos": 237,
+      "tasa_reubicacion": 81.8,
+      "tasa_mortalidad": 18.2,
+      "indicador_anla": 10.2,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "total_ahuyentados": 223,
+      "total_rescatados": 23,
+      "total_individuos": 246,
+      "tasa_reubicacion": 91.3,
+      "tasa_mortalidad": 8.7,
+      "indicador_anla": 10.3,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "total_ahuyentados": 199,
+      "total_rescatados": 50,
+      "total_individuos": 249,
+      "tasa_reubicacion": 94.0,
+      "tasa_mortalidad": 6.0,
+      "indicador_anla": 25.1,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "total_ahuyentados": 159,
+      "total_rescatados": 33,
+      "total_individuos": 192,
+      "tasa_reubicacion": 97.0,
+      "tasa_mortalidad": 3.0,
+      "indicador_anla": 20.8,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "total_ahuyentados": 151,
+      "total_rescatados": 36,
+      "total_individuos": 187,
+      "tasa_reubicacion": 94.4,
+      "tasa_mortalidad": 5.6,
+      "indicador_anla": 23.8,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "total_ahuyentados": 156,
+      "total_rescatados": 35,
+      "total_individuos": 191,
+      "tasa_reubicacion": 94.3,
+      "tasa_mortalidad": 5.7,
+      "indicador_anla": 22.4,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "total_ahuyentados": 172,
+      "total_rescatados": 18,
+      "total_individuos": 190,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 10.5,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "total_ahuyentados": 157,
+      "total_rescatados": 31,
+      "total_individuos": 188,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 19.7,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "total_ahuyentados": 154,
+      "total_rescatados": 33,
+      "total_individuos": 187,
+      "tasa_reubicacion": 97.0,
+      "tasa_mortalidad": 3.0,
+      "indicador_anla": 21.4,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "total_ahuyentados": 0,
+      "total_rescatados": 106,
+      "total_individuos": 106,
+      "tasa_reubicacion": 94.3,
+      "tasa_mortalidad": 5.7,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "enero",
+      "total_ahuyentados": 0,
+      "total_rescatados": 13,
+      "total_individuos": 13,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "febrero",
+      "total_ahuyentados": 0,
+      "total_rescatados": 9,
+      "total_individuos": 9,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "marzo",
+      "total_ahuyentados": 0,
+      "total_rescatados": 15,
+      "total_individuos": 15,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "abril",
+      "total_ahuyentados": 0,
+      "total_rescatados": 8,
+      "total_individuos": 8,
+      "tasa_reubicacion": 87.5,
+      "tasa_mortalidad": 12.5,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "mayo",
+      "total_ahuyentados": 0,
+      "total_rescatados": 2,
+      "total_individuos": 2,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "junio",
+      "total_ahuyentados": 0,
+      "total_rescatados": 9,
+      "total_individuos": 9,
+      "tasa_reubicacion": 66.7,
+      "tasa_mortalidad": 33.3,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "julio",
+      "total_ahuyentados": 0,
+      "total_rescatados": 14,
+      "total_individuos": 14,
+      "tasa_reubicacion": 92.9,
+      "tasa_mortalidad": 7.1,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "agosto",
+      "total_ahuyentados": 0,
+      "total_rescatados": 12,
+      "total_individuos": 12,
+      "tasa_reubicacion": 91.7,
+      "tasa_mortalidad": 8.3,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "septiembre",
+      "total_ahuyentados": 0,
+      "total_rescatados": 6,
+      "total_individuos": 6,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "octubre",
+      "total_ahuyentados": 0,
+      "total_rescatados": 2,
+      "total_individuos": 2,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "noviembre",
+      "total_ahuyentados": 0,
+      "total_rescatados": 3,
+      "total_individuos": 3,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "diciembre",
+      "total_ahuyentados": 0,
+      "total_rescatados": 13,
+      "total_individuos": 13,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "total_ahuyentados": 1712,
+      "total_rescatados": 18,
+      "total_individuos": 1730,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 1.1,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "enero",
+      "total_ahuyentados": 199,
+      "total_rescatados": 0,
+      "total_individuos": 199,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "total_ahuyentados": 198,
+      "total_rescatados": 3,
+      "total_individuos": 201,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 1.5,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "marzo",
+      "total_ahuyentados": 213,
+      "total_rescatados": 0,
+      "total_individuos": 213,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "abril",
+      "total_ahuyentados": 138,
+      "total_rescatados": 0,
+      "total_individuos": 138,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "total_ahuyentados": 140,
+      "total_rescatados": 3,
+      "total_individuos": 143,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 2.1,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "total_ahuyentados": 133,
+      "total_rescatados": 7,
+      "total_individuos": 140,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 5.3,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "total_ahuyentados": 116,
+      "total_rescatados": 2,
+      "total_individuos": 118,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 1.7,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "total_ahuyentados": 107,
+      "total_rescatados": 1,
+      "total_individuos": 108,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.9,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "total_ahuyentados": 112,
+      "total_rescatados": 2,
+      "total_individuos": 114,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 1.8,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "octubre",
+      "total_ahuyentados": 127,
+      "total_rescatados": 0,
+      "total_individuos": 127,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "noviembre",
+      "total_ahuyentados": 114,
+      "total_rescatados": 0,
+      "total_individuos": 114,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Aves",
+      "mes": "diciembre",
+      "total_ahuyentados": 115,
+      "total_rescatados": 0,
+      "total_individuos": 115,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "total_ahuyentados": 132,
+      "total_rescatados": 37,
+      "total_individuos": 169,
+      "tasa_reubicacion": 97.3,
+      "tasa_mortalidad": 2.7,
+      "indicador_anla": 28.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "enero",
+      "total_ahuyentados": 25,
+      "total_rescatados": 0,
+      "total_individuos": 25,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "febrero",
+      "total_ahuyentados": 11,
+      "total_rescatados": 12,
+      "total_individuos": 23,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 109.1,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "marzo",
+      "total_ahuyentados": 30,
+      "total_rescatados": 0,
+      "total_individuos": 30,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "abril",
+      "total_ahuyentados": 10,
+      "total_rescatados": 0,
+      "total_individuos": 10,
+      "tasa_reubicacion": 0.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 0.0,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "mayo",
+      "total_ahuyentados": 12,
+      "total_rescatados": 1,
+      "total_individuos": 13,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 8.3,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "junio",
+      "total_ahuyentados": 4,
+      "total_rescatados": 2,
+      "total_individuos": 6,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 50.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "total_ahuyentados": 10,
+      "total_rescatados": 8,
+      "total_individuos": 18,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 80.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "total_ahuyentados": 14,
+      "total_rescatados": 2,
+      "total_individuos": 16,
+      "tasa_reubicacion": 50.0,
+      "tasa_mortalidad": 50.0,
+      "indicador_anla": 14.3,
+      "estado_anla": "Cumple (<20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "septiembre",
+      "total_ahuyentados": 5,
+      "total_rescatados": 2,
+      "total_individuos": 7,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 40.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "octubre",
+      "total_ahuyentados": 5,
+      "total_rescatados": 2,
+      "total_individuos": 7,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 40.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "noviembre",
+      "total_ahuyentados": 1,
+      "total_rescatados": 4,
+      "total_individuos": 5,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 400.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "diciembre",
+      "total_ahuyentados": 5,
+      "total_rescatados": 4,
+      "total_individuos": 9,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 80.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "total_ahuyentados": 673,
+      "total_rescatados": 276,
+      "total_individuos": 949,
+      "tasa_reubicacion": 97.1,
+      "tasa_mortalidad": 2.9,
+      "indicador_anla": 41.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "total_ahuyentados": 97,
+      "total_rescatados": 36,
+      "total_individuos": 133,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 37.1,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "total_ahuyentados": 75,
+      "total_rescatados": 31,
+      "total_individuos": 106,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 41.3,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "total_ahuyentados": 83,
+      "total_rescatados": 37,
+      "total_individuos": 120,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 44.6,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "total_ahuyentados": 67,
+      "total_rescatados": 14,
+      "total_individuos": 81,
+      "tasa_reubicacion": 78.6,
+      "tasa_mortalidad": 21.4,
+      "indicador_anla": 20.9,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "total_ahuyentados": 71,
+      "total_rescatados": 17,
+      "total_individuos": 88,
+      "tasa_reubicacion": 88.2,
+      "tasa_mortalidad": 11.8,
+      "indicador_anla": 23.9,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "total_ahuyentados": 62,
+      "total_rescatados": 32,
+      "total_individuos": 94,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 51.6,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "total_ahuyentados": 33,
+      "total_rescatados": 9,
+      "total_individuos": 42,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 27.3,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "total_ahuyentados": 30,
+      "total_rescatados": 21,
+      "total_individuos": 51,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 70.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "total_ahuyentados": 39,
+      "total_rescatados": 25,
+      "total_individuos": 64,
+      "tasa_reubicacion": 92.0,
+      "tasa_mortalidad": 8.0,
+      "indicador_anla": 64.1,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "total_ahuyentados": 40,
+      "total_rescatados": 14,
+      "total_individuos": 54,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 35.0,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "total_ahuyentados": 42,
+      "total_rescatados": 24,
+      "total_individuos": 66,
+      "tasa_reubicacion": 100.0,
+      "tasa_mortalidad": 0.0,
+      "indicador_anla": 57.1,
+      "estado_anla": "No cumple (>20%)"
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "total_ahuyentados": 34,
+      "total_rescatados": 16,
+      "total_individuos": 50,
+      "tasa_reubicacion": 93.8,
+      "tasa_mortalidad": 6.2,
+      "indicador_anla": 47.1,
+      "estado_anla": "No cumple (>20%)"
+    }
+  ],
+  "kpi_tendencia_mensual": [
+    {
+      "clase": "TODAS",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 321
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "rescate",
+      "total_individuos": 49
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 284
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "rescate",
+      "total_individuos": 55
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 326
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "rescate",
+      "total_individuos": 52
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 215
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "rescate",
+      "total_individuos": 22
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 223
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "rescate",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 199
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "rescate",
+      "total_individuos": 50
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 159
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "rescate",
+      "total_individuos": 33
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 151
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "rescate",
+      "total_individuos": 36
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 156
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "rescate",
+      "total_individuos": 35
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 172
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "rescate",
+      "total_individuos": 18
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 157
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "rescate",
+      "total_individuos": 31
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 154
+    },
+    {
+      "clase": "TODAS",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "rescate",
+      "total_individuos": 33
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "rescate",
+      "total_individuos": 13
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "rescate",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "rescate",
+      "total_individuos": 15
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "rescate",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "rescate",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "rescate",
+      "total_individuos": 14
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "rescate",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "rescate",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "rescate",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Amphibia",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "rescate",
+      "total_individuos": 13
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 199
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 198
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "rescate",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 213
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 138
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 140
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "rescate",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 133
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "rescate",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 116
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 107
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "rescate",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 112
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 127
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 114
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 115
+    },
+    {
+      "clase": "Aves",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 25
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "rescate",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 30
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 10
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "rescate",
+      "total_individuos": 0
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "rescate",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 10
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "rescate",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 14
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "rescate",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "rescate",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "rescate",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 97
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 1,
+      "mes_nombre": "enero",
+      "manejo": "rescate",
+      "total_individuos": 36
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 75
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 2,
+      "mes_nombre": "febrero",
+      "manejo": "rescate",
+      "total_individuos": 31
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 83
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 3,
+      "mes_nombre": "marzo",
+      "manejo": "rescate",
+      "total_individuos": 37
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 67
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 4,
+      "mes_nombre": "abril",
+      "manejo": "rescate",
+      "total_individuos": 14
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 71
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 5,
+      "mes_nombre": "mayo",
+      "manejo": "rescate",
+      "total_individuos": 17
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 62
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 6,
+      "mes_nombre": "junio",
+      "manejo": "rescate",
+      "total_individuos": 32
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 33
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 7,
+      "mes_nombre": "julio",
+      "manejo": "rescate",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 30
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 8,
+      "mes_nombre": "agosto",
+      "manejo": "rescate",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 39
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 9,
+      "mes_nombre": "septiembre",
+      "manejo": "rescate",
+      "total_individuos": 25
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 40
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 10,
+      "mes_nombre": "octubre",
+      "manejo": "rescate",
+      "total_individuos": 14
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 42
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 11,
+      "mes_nombre": "noviembre",
+      "manejo": "rescate",
+      "total_individuos": 24
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "ahuyentamiento",
+      "total_individuos": 34
+    },
+    {
+      "clase": "Reptilia",
+      "mes_num": 12,
+      "mes_nombre": "diciembre",
+      "manejo": "rescate",
+      "total_individuos": 16
+    }
+  ],
+  "kpi_mortalidad_actividad": [
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "actividad": "Rocería",
+      "muertes": 5
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "actividad": "Obra Civil",
+      "muertes": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "actividad": "Inspección",
+      "muertes": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "actividad": "Rocería",
+      "muertes": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "actividad": "Rocería",
+      "muertes": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "actividad": "Obra Civil",
+      "muertes": 1
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "actividad": "Obra Civil",
+      "muertes": 1
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "actividad": "Inspección",
+      "muertes": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "actividad": "Rocería",
+      "muertes": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "actividad": "Obra Civil",
+      "muertes": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "abril",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "junio",
+      "actividad": "Rocería",
+      "muertes": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "junio",
+      "actividad": "Obra Civil",
+      "muertes": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "julio",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "agosto",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "actividad": "Obra Civil",
+      "muertes": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "actividad": "Obra Civil",
+      "muertes": 1
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "actividad": "Rocería",
+      "muertes": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "actividad": "Inspección",
+      "muertes": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "actividad": "Rocería",
+      "muertes": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "actividad": "Inspección",
+      "muertes": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "actividad": "Tránsito Maquinaria",
+      "muertes": 1
+    }
+  ],
+  "kpi_top_especies": [
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 63
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Boa constrictor",
+      "total_individuos": 55
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 51
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Crotalus durissus",
+      "total_individuos": 47
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 32
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 368
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 364
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 347
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Coragyps atratus",
+      "total_individuos": 319
+    },
+    {
+      "clase": "TODAS",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 314
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 7
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Scinax ruber",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Ardea alba",
+      "total_individuos": 58
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 46
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 43
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 29
+    },
+    {
+      "clase": "TODAS",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Iguana iguana",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 47
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Coragyps atratus",
+      "total_individuos": 45
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 44
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 32
+    },
+    {
+      "clase": "TODAS",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 30
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 17
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 9
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Rhinella marina",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 49
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Coragyps atratus",
+      "total_individuos": 44
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 42
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 40
+    },
+    {
+      "clase": "TODAS",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 38
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Rhinella marina",
+      "total_individuos": 5
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Coragyps atratus",
+      "total_individuos": 35
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 32
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 28
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 22
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Ardea alba",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 42
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 38
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 22
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Coragyps atratus",
+      "total_individuos": 21
+    },
+    {
+      "clase": "TODAS",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 19
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 9
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 9
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 5
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 37
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Ardea alba",
+      "total_individuos": 32
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 21
+    },
+    {
+      "clase": "TODAS",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 20
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Rhinella marina",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Iguana iguana",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 34
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 26
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Ardea alba",
+      "total_individuos": 21
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Milvago chimachima",
+      "total_individuos": 18
+    },
+    {
+      "clase": "TODAS",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 17
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 6
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 5
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Scinax ruber",
+      "total_individuos": 5
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Coragyps atratus",
+      "total_individuos": 25
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 24
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 12
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Crotalus durissus",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Iguana iguana",
+      "total_individuos": 7
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 31
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 24
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Coragyps atratus",
+      "total_individuos": 21
+    },
+    {
+      "clase": "TODAS",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 13
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 30
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Ardea alba",
+      "total_individuos": 28
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Coragyps atratus",
+      "total_individuos": 26
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 23
+    },
+    {
+      "clase": "TODAS",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 20
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Crotalus durissus",
+      "total_individuos": 9
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Boa constrictor",
+      "total_individuos": 5
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 30
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 27
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Coragyps atratus",
+      "total_individuos": 26
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 18
+    },
+    {
+      "clase": "TODAS",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 13
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 8
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 3
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 33
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Ardea alba",
+      "total_individuos": 25
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 22
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Milvago chimachima",
+      "total_individuos": 19
+    },
+    {
+      "clase": "TODAS",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 16
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Scinax ruber",
+      "total_individuos": 29
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 26
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Rhinella marina",
+      "total_individuos": 26
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 25
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Scinax ruber",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Rhinella marina",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Rhinella marina",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Scinax ruber",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Rhinella marina",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Rhinella marina",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Rhinella marina",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Scinax ruber",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Scinax ruber",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Rhinella marina",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Rhinella marina",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Rhinella marina",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Leptodactylus fragilis",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Hypsiboas crepitans",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Amphibia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Scinax ruber",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Ardea alba",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 368
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 364
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 347
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Coragyps atratus",
+      "total_individuos": 319
+    },
+    {
+      "clase": "Aves",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 314
+    },
+    {
+      "clase": "Aves",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Ardea alba",
+      "total_individuos": 58
+    },
+    {
+      "clase": "Aves",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 46
+    },
+    {
+      "clase": "Aves",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 43
+    },
+    {
+      "clase": "Aves",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 29
+    },
+    {
+      "clase": "Aves",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 47
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Coragyps atratus",
+      "total_individuos": 45
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 44
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 32
+    },
+    {
+      "clase": "Aves",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 30
+    },
+    {
+      "clase": "Aves",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 49
+    },
+    {
+      "clase": "Aves",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Coragyps atratus",
+      "total_individuos": 44
+    },
+    {
+      "clase": "Aves",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 42
+    },
+    {
+      "clase": "Aves",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 40
+    },
+    {
+      "clase": "Aves",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 38
+    },
+    {
+      "clase": "Aves",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Coragyps atratus",
+      "total_individuos": 35
+    },
+    {
+      "clase": "Aves",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 32
+    },
+    {
+      "clase": "Aves",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 28
+    },
+    {
+      "clase": "Aves",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Ardea alba",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 20
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Ardea alba",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 42
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 38
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Milvago chimachima",
+      "total_individuos": 22
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Coragyps atratus",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Aves",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 17
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Ardea alba",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 37
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Ardea alba",
+      "total_individuos": 32
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Aves",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 20
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 34
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 26
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Ardea alba",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Milvago chimachima",
+      "total_individuos": 18
+    },
+    {
+      "clase": "Aves",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 17
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Coragyps atratus",
+      "total_individuos": 25
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 24
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 31
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Milvago chimachima",
+      "total_individuos": 24
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Coragyps atratus",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Aves",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 13
+    },
+    {
+      "clase": "Aves",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 30
+    },
+    {
+      "clase": "Aves",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Ardea alba",
+      "total_individuos": 28
+    },
+    {
+      "clase": "Aves",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Coragyps atratus",
+      "total_individuos": 26
+    },
+    {
+      "clase": "Aves",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Aves",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 20
+    },
+    {
+      "clase": "Aves",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Milvago chimachima",
+      "total_individuos": 30
+    },
+    {
+      "clase": "Aves",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 27
+    },
+    {
+      "clase": "Aves",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Coragyps atratus",
+      "total_individuos": 26
+    },
+    {
+      "clase": "Aves",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 18
+    },
+    {
+      "clase": "Aves",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Ardea alba",
+      "total_individuos": 13
+    },
+    {
+      "clase": "Aves",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Turdus ignobilis",
+      "total_individuos": 33
+    },
+    {
+      "clase": "Aves",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Ardea alba",
+      "total_individuos": 25
+    },
+    {
+      "clase": "Aves",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Columbina talpacoti",
+      "total_individuos": 22
+    },
+    {
+      "clase": "Aves",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Milvago chimachima",
+      "total_individuos": 19
+    },
+    {
+      "clase": "Aves",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Coragyps atratus",
+      "total_individuos": 16
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 15
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 43
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 30
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 23
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 18
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 18
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 10
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Dasypus novemcinctus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Tamandua mexicana",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Didelphis marsupialis",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Zygodontomys brevicauda",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Mammalia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Procyon cancrivorus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 63
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Boa constrictor",
+      "total_individuos": 55
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 51
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Crotalus durissus",
+      "total_individuos": 47
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 32
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 135
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Anolis auratus",
+      "total_individuos": 121
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 120
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 101
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "TODOS",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 100
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 18
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 16
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 15
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "enero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Boa constrictor",
+      "total_individuos": 14
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 21
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Boa constrictor",
+      "total_individuos": 16
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 13
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "febrero",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 17
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Iguana iguana",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Boa constrictor",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 24
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Anolis auratus",
+      "total_individuos": 15
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 15
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Iguana iguana",
+      "total_individuos": 14
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "marzo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Boa constrictor",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Anolis auratus",
+      "total_individuos": 22
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 17
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "abril",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Boa constrictor",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 19
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Iguana iguana",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Crotalus durissus",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "mayo",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 10
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Anolis auratus",
+      "total_individuos": 16
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 16
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Crotalus durissus",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "junio",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Crotalus durissus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "julio",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Crotalus durissus",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Anolis auratus",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "agosto",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Crotalus durissus",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Iguana iguana",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Anolis auratus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "septiembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Crotalus durissus",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Anolis auratus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Boa constrictor",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Boa constrictor",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "octubre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Crotalus durissus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Crotalus durissus",
+      "total_individuos": 9
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Boa constrictor",
+      "total_individuos": 5
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Iguana iguana",
+      "total_individuos": 11
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Boa constrictor",
+      "total_individuos": 7
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "noviembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Anolis auratus",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 1,
+      "especie": "Boa constrictor",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 2,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 4
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 3,
+      "especie": "Iguana iguana",
+      "total_individuos": 2
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 4,
+      "especie": "Crotalus durissus",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "rescate",
+      "ranking": 5,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 1
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 1,
+      "especie": "Erythrolamprus bizona",
+      "total_individuos": 12
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 2,
+      "especie": "Anolis auratus",
+      "total_individuos": 8
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 3,
+      "especie": "Crotalus durissus",
+      "total_individuos": 6
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 4,
+      "especie": "Chelonoidis carbonaria",
+      "total_individuos": 3
+    },
+    {
+      "clase": "Reptilia",
+      "mes": "diciembre",
+      "manejo": "ahuyentamiento",
+      "ranking": 5,
+      "especie": "Iguana iguana",
+      "total_individuos": 3
+    }
+  ]
+}
